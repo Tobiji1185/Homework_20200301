@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Fortune",
+            "request": "launch",
+            "mainClass": "Fortune"
+        }
+    ]
+}
